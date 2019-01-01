@@ -1,1 +1,3 @@
 # esqueleto-ci
+
+# comando CRUD 
